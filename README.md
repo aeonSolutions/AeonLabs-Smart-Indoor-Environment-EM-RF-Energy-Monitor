@@ -22,7 +22,7 @@ Nowadays there are a plethora of electronic devices with wireless electromagneti
 
 **The Idea**
 
-This Smart Indoor Environment EM RF Energy Monitor does not solve the health concern one may have indoors. However, is a step forward in correctly identifying such electromagnetic disturbances nearby, for instance, when observing recurrently a mid-air energy spike, with the most common visual effect, a really small bright light flash. This smart device is able to do electromagnetic (EM) radio frequency (RF) measurements in a room and send data measurements to a local home server, alternatively to a public cloud server (for instance, to the authorities). Another important characteristic of this smart device is in the ability to deliver data to a server with a Unique Data Fingerprint Identification (UDF-ID),  which makes collected data more trustworthy of its origins.
+This Smart Indoor Environment EM RF Energy Monitor does not solve the electromagnetic health concern one may have indoors. However, is a step forward in correctly identifying such electromagnetic disturbances nearby, for instance, when observing recurrently a mid-air energy spike, with the most common visual effect, a really small bright light flash. This smart device is able to do electromagnetic (EM) radio frequency (RF) measurements in a room and send data measurements to a local home server, alternatively to a public cloud server (for instance, to the authorities). Another important characteristic of this smart device is in the ability to deliver data to a server with a Unique Data Fingerprint Identification (UDF-ID),  which makes collected data more trustworthy of its origins.
 
 
 <p align="center">
