@@ -21,7 +21,9 @@
 **The Idea**
 
 
-
+<p align="center">
+<img src="https://github.com/aeonSolutions/AeonLabs-Smart-Indoor-Environment-EM-RF-Energy-Monitor/blob/main/designs/pcb_front.png" height="350">
+</p>
 
   
 ## What one additionally needs
