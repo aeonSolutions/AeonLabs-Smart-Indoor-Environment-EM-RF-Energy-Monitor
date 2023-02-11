@@ -26,6 +26,17 @@ This Smart Indoor Environment EM RF Energy Monitor does not solve the electromag
 
 <br>
 
+### Status
+
+![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/working_yellow.png) Not yet tested.
+
+<br>
+
+### Known PCB bugs
+This public revision of the PCB electronics has a few unknown errors. 
+
+<br>
+
 <p align="center">
 <img src="https://github.com/aeonSolutions/AeonLabs-Smart-Indoor-Environment-EM-RF-Energy-Monitor/blob/main/designs/pcb_front.png" height="350">
 </p>
