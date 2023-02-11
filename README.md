@@ -24,11 +24,13 @@ Nowadays there are a plethora of electronic devices with wireless electromagneti
 
 This Smart Indoor Environment EM RF Energy Monitor does not solve the electromagnetic health concern one may have indoors. However, is a step forward in correctly identifying such electromagnetic disturbances nearby, for instance, when observing recurrently a mid-air energy spike, with the most common visual effect, a really small bright light flash. This smart device is able to do electromagnetic (EM) radio frequency (RF) measurements in a room and send data measurements to a local home server, alternatively to a public cloud server (for instance, to the authorities). Another important characteristic of this smart device is in the ability to deliver data to a server with a Unique Data Fingerprint Identification (UDF-ID),  which makes collected data more trustworthy of its origins.
 
+<br>
 
 <p align="center">
 <img src="https://github.com/aeonSolutions/AeonLabs-Smart-Indoor-Environment-EM-RF-Energy-Monitor/blob/main/designs/pcb_front.png" height="350">
 </p>
 
+<br>
   
 ## What one additionally needs
 - [USB to UART/USB TTL firmware burner for 5V and 3.3V MCUs ](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/DIY-Maker/README.md) 
@@ -40,6 +42,49 @@ This Smart Indoor Environment EM RF Energy Monitor does not solve the electromag
 | [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/mailing-list_orig.png" alt="" width="80">](https://www.tindie.com/stores/aeonlabs/) | You can fill in your [email here (Google form)](https://docs.google.com/forms/d/e/1FAIpQLScErMgQYRdA-umvCjvTPPrCO7Lg1QYowTxb7vfa8cTfrcPEAA/viewform?usp=pp_url) and I'll send a reminder when a new PCB prototype is made available here or a new revision for an existing PCB. Stay tuned! |
 |-------------|------|
 
+<br />
+
+| [<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/tindie_sell.png" alt="" height="60">](https://www.tindie.com/stores/aeonlabs/) | To all those not into electronics and still liked and want to own any of the listed PCB for smart devices can buy the PRO version on Tindie. |
+|-------------|------|
+
+<br />
+<br />
+
+**Be supportive of my dedication and work towards open hardware and buy me a cup of coffee. Links below. Above and on the side**
+
+<br />
+ 
+| [![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/likeShareComment.jpg)   ![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/twitter_small.png)](https://twitter.com/AeonlabsS)  | *Don't forget to **LIKE** , **SHARE** and **subscribe** the free chat groups* and if you downloaded one of AeonLabs's PCBs consider sponsor  any open hardware project with a donation or a cup of coffee. Links on the top, right side pane and below. |
+|-------------|------|
+
+
+<br />
+<br />
+
+## Q&A WhatsApp/Telegram Groups
+| ![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/whatsAppTelegram.png) | Subscribe to the WhatsApp or Telegram channel to get latest information about any of this KiCad projects and get help. Or simply like this kind of projects and want to stay updated with the latest research ideas and prototypes during the day and week. [![Telegram](https://img.shields.io/badge/join-telegram-blue.svg?style=for-the-badge)](https://t.me/+W4rVVa0_VLEzYmI0) [![WhatsApp](https://img.shields.io/badge/join-whatsapp-green.svg?style=for-the-badge)](https://chat.whatsapp.com/FkNC7u83kuy2QRA5sqjBVg) |
+|-------------|------|
+
+
+<br />
+<br />
+
+## Usefull Utilities 
+| [![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/excel_utils.png)](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/useful_utilities) | One can find here usefull utilities to use when designing and prototyping pcb electronics. For instance a simple excel spreadsheet with resistance divider finder compatible with all sold on [aliexpress](https://www.aliexpress.com/item/1005002792418456.html?spm=a2g0o.cart.0.0.22e538dayDM1YR&mp=1). Click on the Excel logo to the left to get them! |
+|-------------|------|
+
+
+<br />
+<br />
+
+
+## Youtube Channel
+| ![](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/youtube.png) | Subscribe to my Youtube channel for PCB assembly instruction or any other related to Artificial Intelligence, Smart devices and robotics. Link to the channel [here](https://www.youtube.com/channel/UCAewCBpMRPGCyFc1ET5CHJw). My most recent video is .... |
+|-------------|------|
+
+
+<br />
+<br />
 <br>
 
 ## Author
