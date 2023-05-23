@@ -1,7 +1,3 @@
-[PCB-Prototyping-Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)  >>  [Home Automation Safety & Health](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home%20Automation%20Safety%20%26%20Health)  >>  Smart Indoor Environment EM RF Energy Monitor
-
-<br>
-
 [![Telegram](https://img.shields.io/badge/join-telegram-blue.svg?style=for-the-badge)](https://t.me/+W4rVVa0_VLEzYmI0)
  [![WhatsApp](https://img.shields.io/badge/join-whatsapp-green.svg?style=for-the-badge)](https://chat.whatsapp.com/FkNC7u83kuy2QRA5sqjBVg) 
  [![Donate](https://img.shields.io/badge/donate-$-brown.svg?style=for-the-badge)](http://paypal.me/mtpsilva)
@@ -15,6 +11,14 @@
 [![GitHub Forks](https://img.shields.io/github/forks/aeonSolutions/AeonLabs-Smart-Indoor-Environment-EM-RF-Energy-Monitor.svg?style=social&label=Fork&maxAge=2592000)](https://www.github.com/aeonSolutions/AeonLabs-Smart-Indoor-Environment-EM-RF-Energy-Monitor/fork)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
 [<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" />](https://www.buymeacoffee.com/migueltomas)
+
+<p align="center">
+   <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/general-guide-mental-health-students.jpg" height="300">
+</p>
+
+[PCB-Prototyping-Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)  >>  [Home Automation Safety & Health](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home%20Automation%20Safety%20%26%20Health)  >>  Smart Indoor Environment EM RF Energy Monitor
+
+<br>
 
 # Smart Indoor Environment EM RF Energy Monitor
 
