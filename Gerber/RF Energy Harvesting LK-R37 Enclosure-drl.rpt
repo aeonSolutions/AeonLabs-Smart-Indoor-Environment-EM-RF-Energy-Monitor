@@ -1,0 +1,26 @@
+Drill report for RF Energy Harvesting LK-R37 Enclosure.kicad_pcb
+Created on 9/24/2023 11:57:52 AM
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'RF Energy Harvesting LK-R37 Enclosure-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.400mm  0.0157"  (139 holes)
+    T2  0.650mm  0.0256"  (4 holes)  (with 4 slots)
+    T3  0.800mm  0.0315"  (4 holes)
+    T4  0.840mm  0.0331"  (5 holes)
+
+    Total plated holes count 152
+
+
+Drill file 'RF Energy Harvesting LK-R37 Enclosure-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  0.700mm  0.0276"  (7 holes)
+
+    Total unplated holes count 7
